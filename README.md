@@ -34,3 +34,8 @@ https://github.com/user-attachments/assets/70e7cf7d-e66f-4b36-9e2d-a1bd5245ab33
 ![bye](https://github.com/user-attachments/assets/9f3477d5-e1f0-4af7-be74-f49661ffcccf)
 
 ![world](https://github.com/user-attachments/assets/c2a48b26-ab2b-4257-b602-4134ad038aed)
+
+
+Big Thanks to Clear Code and his videos* for teaching how to do it!
+
+* video - https://www.youtube.com/watch?v=8OMghdHP-zs&t=26815s
